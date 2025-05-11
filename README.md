@@ -1,6 +1,9 @@
 # TicTacToe-AI-
-Tic-Tac-Toe game with an AI opponent
+Hey, I’m Puroonjay!
+I’m a first-year game development student, diving into AI with this Tic-Tac-Toe AI project. The AI opponent uses the Minimax algorithm, making it unbeatable!
+Here's the description of game..
 
+Tic-Tac-Toe game with an AI opponent
 => Tech behind
 1) HTML – Builds the game layout
 2) CSS – Styles the board to look sleek
